@@ -7,9 +7,15 @@ img.logo {
     font-weight: bold;
     margin: 15px 0;
 }
-#navbar>.nav>li>a {
-    color: #ee264d;
+a {
+    color: #ee264d !important;
 }
-#navbar>.nav>li>a:hover {
-    color: #F298A8;
+a:hover {
+    color: #F298A8 !important;
 }
+
+/* CAROUSEL */
+.carousel-control:link {
+    color: #fff !important;
+}
+/* END: CAROUSEL */
