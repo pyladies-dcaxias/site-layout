@@ -19,3 +19,15 @@ a:hover {
     color: #fff !important;
 }
 /* END: CAROUSEL */
+
+ul.icon-links {
+    list-style: none;
+    font-size: 32px;
+    padding: 10px 0;
+    margin-top: 20px;
+    overflow: hidden;
+}
+ul.icon-links li {
+    float: left;
+    margin-right: 20px;
+}
