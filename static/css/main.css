@@ -2,9 +2,17 @@ body {
     padding-bottom: 0;
 }
 
+#content {
+    min-height: 72%;
+}
+
 img.logo {
     height: 60px;
     margin: 10px 0;
+}
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
 }
 #navbar>.nav>li {
     font-size: 16px;
